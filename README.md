@@ -1,6 +1,8 @@
 # Stock trading bot
 AI stock trading bot written in Python that has an average accuracy of 55-60%. An example showing how the bot works is the Intel company.
 It uses historical data provided by yfinance to predict next price moves. It is run and trained on 70 epochs you can change it to get a better accuracy. To run the model you just need to open `main.ipynb` file and run all the cells (do not forget about the requirements below).
+**Important note**
+I am not a financial advisor and you use this bot at your own risk.
 ## Prerequisites
 Installation process shown on Linux Ubuntu 20.04 LTS:
 1. Update system before installation:
